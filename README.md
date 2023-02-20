@@ -1,20 +1,27 @@
+# Hello! My name is Artem
+
 Привет! Меня зовут Артем
-Hello! My name is Artem
-============
 
-![my photo](https://vk.com/artem_lasman?z=photo18739960_457240147%2Falbum18739960_0%2Frev)
+_____
 
--------------------     ----------------------------
-My email                           email@example.com
-My Town                             Saint-Petersburg
-My Country                                    Russia
--------------------     ----------------------------
+![my photo](https://sun9-28.userapi.com/c857724/v857724234/787d0/gDlLg-Xp-Q0.jpg?ava=1)
+
+______   
+My email: email@example.com
+
+My Town: Saint-Petersburg
+
+My Country: Russia
+
+---------
 
 Education
 ---------
 
 2010-2014 (expected)
-:   **Computer Science**; OMGTU
+:   **OmGTU**
+
+**Computer Science**; 
 
     
 Experience
